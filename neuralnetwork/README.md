@@ -1,6 +1,7 @@
 NeuralNetwork Classification
   
 Andy Douglas
+  
 Tensorflow used
 4 layer model
    
